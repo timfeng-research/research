@@ -10,7 +10,7 @@ Contact: [research@timfeng.com](mailto:research@timfeng.com)
 
 | Paper | Status | Links |
 | --- | --- | --- |
-| *Motivic Adams isomorphism and tom Dieck splitting in characteristic zero* | Preprint · v1 · 2026 | [Repository](https://github.com/timfeng-research/motivic-adams-tom-dieck) · [PDF](https://github.com/timfeng-research/motivic-adams-tom-dieck/blob/main/paper.pdf) · [Release](https://github.com/timfeng-research/motivic-adams-tom-dieck/releases/tag/v1) |
+| *Motivic Adams isomorphism and tom Dieck splitting in characteristic zero* | Preprint · v2 · October 18, 2026 | [Repository](https://github.com/timfeng-research/motivic-adams-tom-dieck) · [PDF](https://github.com/timfeng-research/motivic-adams-tom-dieck/blob/main/paper.pdf) · [Release](https://github.com/timfeng-research/motivic-adams-tom-dieck/releases/tag/v2) |
 
 This is the first paper in a planned series. See the [series index](series/motivic-homotopy.md).
 
